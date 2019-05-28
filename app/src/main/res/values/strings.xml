@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YOUR HEALTH</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="tieude">Tính BMI chuẩn \nvà tư vấn cân nặng hợp lý</string>
+    <string name="ten">Họ và tên</string>
+    <string name="ngaydo">Ngày đo chỉ số</string>
+    <string name="tuoi">Tuổi</string>
+    <string name="cao">Chiều cao(cm)</string>
+    <string name="cannang">Cân nặng</string>
+    <string name="gioitinh">Giới tính</string>
+    <string name="bmi">BMI của bạn là:</string>
+    <string name="tinh">Tính</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ankieng">tăng cân</string>
+    <string name="giamcan">giảm cân</string>
+    <string name="bt">bình thường</string>
+
+</resources>
